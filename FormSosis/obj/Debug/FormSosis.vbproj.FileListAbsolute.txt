@@ -1,0 +1,27 @@
+F:\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.exe.config
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.vbprojResolveAssemblyReference.cache
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Login.resources
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Resources.resources
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.vbproj.GenerateResource.Cache
+F:\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.exe
+F:\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.pdb
+F:\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.xml
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.exe
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.xml
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.pdb
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Marketing.resources
+F:\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Purchasing.resources
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.exe.config
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.exe
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.xml
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.pdb
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.exe
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.pdb
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\bin\Debug\FormSosis.xml
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.vbprojResolveAssemblyReference.cache
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Login.resources
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Marketing.resources
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Resources.resources
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.Purchasing.resources
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.vbproj.GenerateResource.Cache
+F:\Matkul Smtr 7\apsi\Sosis\FormSosis\FormSosis\obj\Debug\FormSosis.MenuUtama.resources
