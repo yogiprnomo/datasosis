@@ -12,7 +12,7 @@
     End Sub
     Private Sub PurchasingToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PurchasingToolStripMenuItem.Click
         Purchasing.Show()
-        'hai nama saya dohan
+        'hai nama saya dohan asdadwda
 
     End Sub
 End Class
